@@ -1,0 +1,5 @@
+{
+    "i18nAppTitle": "i18n gösteri",
+    "helloWorld": "Selam Dünya",
+    "helloUserMessage": "Selam {username}"
+}

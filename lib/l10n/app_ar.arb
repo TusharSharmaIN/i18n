@@ -1,0 +1,5 @@
+{
+    "i18nAppTitle": "i18n عرض",
+    "helloWorld": "مرحبا بالعالم",
+    "helloUserMessage": "مرحبا {username}"
+}

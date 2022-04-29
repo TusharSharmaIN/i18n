@@ -1,0 +1,19 @@
+{
+    "i18nAppTitle": "i18n Demo",
+    "@i18nAppTitle": {
+        "description": "App title for i18n Demo"
+    },
+    "helloWorld": "Hello World",
+    "@helloWorld":  {
+        "description": "Test Message Hello World"
+    },
+    "helloUserMessage": "Hello {username}",
+    "@helloUserMessage": {
+        "description": "Greet User with a hello user message",
+        "placeholders": {
+            "username": {
+                "type": "String"
+            }
+        }
+    }
+}
